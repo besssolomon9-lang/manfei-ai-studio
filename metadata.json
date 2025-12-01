@@ -1,0 +1,5 @@
+{
+  "name": "漫飞工作室-剧本拆解系统",
+  "description": "智能剧本拆解工具。利用 Gemini 2.5 提取剧本中的画面描述词（时间、地点、景别、动作等），自动生成漫剧分镜脚本。",
+  "requestFramePermissions": []
+}
